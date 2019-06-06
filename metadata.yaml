@@ -1,5 +1,8 @@
 _repo: Dresden-und-die-Sachsische-Schweiz_59596
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 59596-h/images/cover.jpg
 creator:
   author:
     agent_name: Ruge, Sophus
@@ -8,6 +11,8 @@ creator:
     gutenberg_agent_id: '48065'
     url: http://www.gutenberg.org/2009/agents/48065
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/59596#Dresden-und-die-Sachsische-Schweiz
 gutenberg_issued: '2019-05-24'
 gutenberg_type: Text
 identifiers:
